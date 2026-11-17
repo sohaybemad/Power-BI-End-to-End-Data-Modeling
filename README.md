@@ -31,8 +31,8 @@ The objective was to apply data modeling best practices to improve data organiza
 
 
 ### After: Optimized Dimensional Data Model
+<img width="1353" height="708" alt="image" src="https://github.com/user-attachments/assets/9f95371e-c34f-4d7b-b007-e55eaab09d40" />
 
-![Optimized Data Model](screenshots/Data_Model_After_Optimization.png)
 
 ## Project Outcome
 
